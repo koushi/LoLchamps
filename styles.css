@@ -1,0 +1,22 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.img-desc {
+	position: relative;
+	display: block;
+	height:120px;
+	width: 120px;
+}
+.img-desc cite {
+	background: #111;
+	filter:alpha(opacity=55);
+	opacity:.2;
+	color: #fff;
+	position: absolute;
+	bottom: 10;
+	left: 0;
+	width: 120px;
+	padding: 0px;
+	border-top: 1px solid #999;
+}
+
