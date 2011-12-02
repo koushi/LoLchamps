@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<champions ver="0.71">
+<champions ver="0.72">
  <champ>
   <name>Akali</name>
   <image>akali.jpg</image>
@@ -342,6 +342,10 @@
 </champ>
 <champ>
     <name>Volibear</name>
+    <image>volibear.jpg</image>
+</champ>
+<champ>
+    <name>BiPolarbear</name>
     <image>volibear.jpg</image>
 </champ>
 </champions>
